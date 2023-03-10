@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">20230301imageview</string>
+    <string name="image_width">图形宽度</string>
+    <string name="image_height">图形高度</string>
+    <string name="rotate_degree">图形jiao度</string>
+    <string name="init_rotate_degree">图形jiao度:0</string>
+</resources>
